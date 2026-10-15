@@ -1,4 +1,4 @@
-# John Darby — Premium portfolio with coffee motion
+# John Darby - Premium portfolio with coffee motion
 
 Open `index.html` to preview without any software.
 
